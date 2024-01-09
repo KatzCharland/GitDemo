@@ -15,10 +15,8 @@ This is a demo app for the Git course.
 11. git merge bug-00-branch-name
 12. git pull
 13. git push
-14. git branch -d for delete
 
-
-
+14. git branch -d bug-00-branch-name
 
 
 ## Roadmap
